@@ -40,6 +40,6 @@
 
 <p>
 <ul>
-  <li>Ссылка на провиль codewars : https://www.codewars.com/users/_simpleName</li>
+  <li>Ссылка на профиль codewars : https://www.codewars.com/users/_simpleName</li>
 </ul>
 </p>
