@@ -41,5 +41,9 @@
 <p>
 <ul>
   <li><a href="https://www.codewars.com/users/_simpleName">Ссылка на профиль codewars</a></li>
+  <li><a href="https://github.com/KucherenkoRoman/PadawansTask1">PadawansTask1</a></li>
+  <li><a href="https://github.com/KucherenkoRoman/PadawansTask2">PadawansTask2</a></li>
+  <li><a href="https://github.com/KucherenkoRoman/PadawansTask3">PadawansTask3</a></li>
+  <li><a href="https://github.com/KucherenkoRoman/FancyCalc">FancyCalc</a></li>
 </ul>
 </p>
