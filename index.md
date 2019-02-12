@@ -47,5 +47,6 @@
   <li><a href="https://github.com/KucherenkoRoman/FancyCalc">FancyCalc</a></li>
   <li><a href="https://github.com/KucherenkoRoman/PadawansTask4">PadawansTask4</a></li>
   <li><a href="https://github.com/KucherenkoRoman/PadawansTask5">PadawansTask5</a></li>
+  <li><a href="https://github.com/KucherenkoRoman/PadawansTask6">PadawansTask6</a></li>
 </ul>
 </p>
