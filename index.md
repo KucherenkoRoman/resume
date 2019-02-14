@@ -49,5 +49,6 @@
   <li><a href="https://github.com/KucherenkoRoman/PadawansTask5">PadawansTask5</a></li>
   <li><a href="https://github.com/KucherenkoRoman/PadawansTask6">PadawansTask6</a></li>
   <li><a href="https://github.com/KucherenkoRoman/PadawansTask13">PadawansTask13</a></li>
+  <li><a href="https://github.com/KucherenkoRoman/Codewars8">CodewarsTask8</a></li>
 </ul>
 </p>
