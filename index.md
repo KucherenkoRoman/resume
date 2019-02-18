@@ -40,7 +40,7 @@
 
 <p>
   <ul>
-    <li><h2>PadawansTasks</h2></li>
+    <h2>PadawansTasks</h2>
     <li><a href="https://github.com/KucherenkoRoman/PadawansTask1">PadawansTask1</a></li>
     <li><a href="https://github.com/KucherenkoRoman/PadawansTask2">PadawansTask2</a></li>
     <li><a href="https://github.com/KucherenkoRoman/PadawansTask3">PadawansTask3</a></li>
