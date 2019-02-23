@@ -60,8 +60,8 @@
     <li>Codewars</li>
     <ul>
       <li><a href="https://www.codewars.com/users/_simpleName">Ссылка на профиль codewars</a></li>
-      <li><a href="https://github.com/KucherenkoRoman/Codewars8">CodewarsTask8</a></li>
-      <li><a href="https://github.com/KucherenkoRoman/Codewars13">CodewarsTask13</a></li>
+      <li><a href="https://github.com/KucherenkoRoman/Codewars8">Codewars Task 8 + unit tests</a></li>
+      <li><a href="https://github.com/KucherenkoRoman/Codewars13">Codewars Task 13 + unit tests</a></li>
     </ul>
   </ul>
 </p>
