@@ -64,5 +64,9 @@
       <li><a href="https://github.com/KucherenkoRoman/Codewars8">Codewars Task 8 + unit tests</a></li>
       <li><a href="https://github.com/KucherenkoRoman/Codewars13">Codewars Task 13 + unit tests</a></li>
     </ul>
+    <li>Сollections</li>
+    <ul>
+      <li><a href="https://github.com/KucherenkoRoman/FibonacciNumbers">Fibonacci numbers</a></li>
+    </ul>
   </ul>
 </p>
