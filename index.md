@@ -68,5 +68,9 @@
     <ul>
       <li><a href="https://github.com/KucherenkoRoman/FibonacciNumbers">Fibonacci numbers</a></li>
     </ul>
+    <li>Tic tac toe</li>
+    <ul>
+      <li><a href="https://github.com/KucherenkoRoman/tic-tac-toe">Tic tac toe</a></li>
+    </ul>
   </ul>
 </p>
