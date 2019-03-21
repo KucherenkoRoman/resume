@@ -72,5 +72,10 @@
     <ul>
       <li><a href="https://github.com/KucherenkoRoman/tic-tac-toe">Tic tac toe</a></li>
     </ul>
+    <li>Other</li>
+    <ul>
+      <li><a href="https://github.com/KucherenkoRoman/NET1.S.2019.Kucherenko.01">Day 01</a></li>
+      <li><a href="https://github.com/KucherenkoRoman/NET1.S.2019.Kucherenko.02">Day 02</a></li>
+    </ul>
   </ul>
 </p>
