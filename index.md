@@ -78,6 +78,7 @@
       <li><a href="https://github.com/KucherenkoRoman/NET1.S.2019.Kucherenko.02">Day 02</a></li>
       <li><a href="https://github.com/KucherenkoRoman/NET1.S.2019.Kucherenko.03">Day 03</a></li>
       <li><a href="https://github.com/KucherenkoRoman/NET1.S.2019.Kucherenko.04">Day 04</a></li>
+      <li><a href="https://github.com/KucherenkoRoman/NET1.S.2019.Kucherenko.07">Day 07</a></li>
     </ul>
   </ul>
 </p>
